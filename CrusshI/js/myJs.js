@@ -1,16 +1,16 @@
 const textConfig = {
-  text1: "Xin chào quý shop!",
-  text2: "Mình đến đây để ứng tuyển theo bài đăng của quý shop trên fb <3",
-  text3: "quý shop có thể dành chút thời gian xem qua cv của mình đc khum ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là quý shop đã chấp nhận cv của mình :v",
-  text5: "Bỏ qua???",
-  text6: "Tất Nhiên chấp nhận CV òiiiiiii<3",
-  text7: " :vvvv",
-  text8: "vì là quý shop đã chấp nhận cái CV xin ứng tuyển này <3",
-  text9: "Quý shop có thể cho mình một lịch hẹn phỏng vấn trực tiếp đc khum",
-  text10: "ngày tháng phỏng vấn trực tiếp quý shop có thể đặt lịch và xem ngày,
+  text1: "Helo cậu!",
+  text2: "Tớ Muốn Hỏi Cậu Một Câu Hỏi <3",
+  text3: "Cậu Có Thích Tớ Không ._.",
+  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
+  text5: "Cậu mơ à???",
+  text6: "Tất Nhiên Là Có rùiii<3",
+  text7: "Lí do cậu thích tớ đi :vvvv",
+  text8: "Gửi cho tớ <3",
+  text9: "Vì tớ thích cậu mất rồi",
+  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
   text11:
-    "mong mỏi nhận được câu trả lời sớm nhất từ quý shop",
+    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì cậu xem hết bí mật này nha!",
   text12: "Okii lunn <3",
 };
 
